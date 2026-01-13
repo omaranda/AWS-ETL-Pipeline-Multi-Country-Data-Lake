@@ -1,4 +1,4 @@
-# Data Uploader
+# AWS ETL Pipeline Multi Country Data Lake
 
 A full-stack web application for uploading field sensor data (audio recordings, camera trap images/videos) to AWS S3 buckets. Features browser-based uploads with progress tracking, PostgreSQL-backed session management, and support for large-scale file operations (100k+ files).
 
